@@ -84,6 +84,9 @@ class MyHomePage extends StatelessWidget {
                             )
                           ),
                         ),
+                        const SizedBox(
+                          height: 10,
+                        ),
                         const Text(
                           'Oscar \nChavesta',
                           textAlign: TextAlign.center,
@@ -96,7 +99,6 @@ class MyHomePage extends StatelessWidget {
                         ),
                         const Text(
                           '''
-
 
 Desarrollador de software con
 experiencia en diseño,instalación, 
